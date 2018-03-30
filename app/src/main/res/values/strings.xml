@@ -13,4 +13,8 @@
         <item>820</item>
         <item>837</item>
     </string-array>
+    <string name="facebook_app_id">1890465120978085</string>
+    <string name="fb_login_protocol_scheme">fb1890465120978085</string>
+
+
 </resources>
