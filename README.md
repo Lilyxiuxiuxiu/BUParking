@@ -7,3 +7,9 @@ BU Parking is a Android App that helps
 - Guests who are visiting Boston University and do not want to pay for the expensive parking fee
 - Sports fans who wish to participate in intense sport festivities at Fenway Park
 - Basically anyone who wants to save time when looking for a street parking spot around Boston University :)
+
+
+### How to install
+1. install Android Studio and have an Android phone ready
+2. download BUParking App and run it on the phome
+3. have fun!
